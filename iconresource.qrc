@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="packageIcon">resources/packageIcon.png</file>
+        <file alias="addIcon">resources/addIcon.png</file>
+        <file alias="rmIcon">resources/deleteIcon.png</file>
+        <file alias="fileIcon">resources/fileIcon.png</file>
+        <file alias="projectIcon">resources/projectIcon.png</file>
+        <file alias="typeIcon">resources/typeIcon.png</file>
+        <file alias="packageIconColored">resources/packageIcon2.png</file>
+        <file alias="returnIcon">resources/returnIcon.png</file>
+        <file alias="deSelectIcon">resources/deSelect.png</file>
+        <file alias="selectIcon">resources/selectIcon.png</file>
+    </qresource>
+    <qresource prefix="/movie">
+        <file alias="loadingMovie">resources/loadingMovie.gif</file>
+    </qresource>
+</RCC>
